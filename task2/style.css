@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(238, 142, 73); 
+}
+
+.head {
+    color: darkblue;
+}
+
+#bglime span {
+    color: red;
+}
+
+#bglime {
+    background-color: lime; 
+}
+
+p {
+    color: aliceblue;
+}
+
+p span{
+    color: brown;
+    font-size: 20px;
+}
+#para {
+    color: green; 
+    font-size: 18px; 
+}
+
+ul li:nth-child(1) span {
+    color: blue;
+    background-color: yellow;
+}
+
+ul li:nth-child(2) span {
+    color: blue;
+    background-color: blueviolet;
+}
+
+ol li:nth-child(2) {
+        color: blue;
+}
+
+ol li:nth-child(3) {
+    color: red;
+}
+h3 {
+    color: brown;
+}
